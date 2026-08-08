@@ -1,0 +1,12 @@
+{
+  "name": "AgriLinkPrototype",
+  "description": "A global agribusiness platform that connects farmers and companies with transparent payments (Agri-Trace), AI-assisted crop help (Yield-Augment), and proactive farmer sentiment analysis (Kisan-Pulse) — delivered offline-ready and in regional languages.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
